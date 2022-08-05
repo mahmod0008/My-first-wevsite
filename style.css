@@ -37,3 +37,15 @@ section{
     background-repeat: no-repeat;
     background-position-x: right;
 }
+.h3-tag{
+    color: rgb(247, 134, 5);
+}
+.experiences-banner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.expboder{
+    width: 50%;
+     padding-left: 5%;
+}
